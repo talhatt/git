@@ -1,0 +1,4 @@
+###29/08/2020###
+:Bugün itibariyle ilk olarak flutter için matematiksel problemler çözüldü.
+:problemler.dart dosyasının 10.satırındaki işlemin çözümü anlaşılamadı.
+:ikinci olarak donguler.dart dosyasında döngü konusu işlendi ve eğitim esnasında herhangi bir sorun ortaya çıkmadı.
