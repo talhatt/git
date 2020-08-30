@@ -2,3 +2,25 @@
 :Bugün itibariyle ilk olarak flutter için matematiksel problemler çözüldü.
 :problemler.dart dosyasının 10.satırındaki işlemin çözümü anlaşılamadı.
 :ikinci olarak donguler.dart dosyasında döngü konusu işlendi ve eğitim esnasında herhangi bir sorun ortaya çıkmadı.
+-------------------------------------------------------------------------------------------------------------------
+ÖDEV-1 - Kolay
+------
+1' den 10'a kadar çarpım tablosunu ekranda gösteren programın kodunu Dart dili ile yaz.
+
+----------------------------------------------------------------------------------
+ÖDEV-2 - Normal
+------
+Dışardan çift sayı girildikçe toplama işlemi yapan, tek sayı girildiği durumda ise
+girilen çift sayıların toplamını gösteren Dart kodunu yaz.
+----------------------------------------------------------------------------------
+ÖDEV-3 - Zor
+------
+Üç basamaklı, basamaklarının küpleri toplamı kendisine eşit olan tam sayılara
+Armstrong sayısı denir. Örneğin: 371 = 3^3 + 7^3 + 1^3.
+İç içe döngü yapısı kullanarak 3 basamaklı Armstrong sayılarını bulan programı Dart dilinde yaz.
+-------------------------------------------------------------------------------------------------------------------
+Not: Verilen her bir ödevi ayrı bir dart dosyasında yaz. Örneğin, "odev_1.dart" şeklinde,
+her bir ödev dosyasını ise ODEVLER klasörünün altında topla -> "ODEVLER\odev_1.dart" şeklide.
+--------------------------------------------------------------------------------------------------------------------
+
+
