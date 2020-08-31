@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "donguler.dart",
+            "program": "problemler.dart",
             "request": "launch",
             "type": "dart"
         }
