@@ -8,3 +8,9 @@
 :Bugün flutter derslerinin 22. ve 23. videoları izlendi.
 :Bu videolarda bulunan 6 sorunun çözümü yapıldı
 :Bunun dışında verilmiş olan ödevin 1. sorusu çözüldü.
+
+-------------------------------------------------------------------------------------------------------------------
+
+###01/09/2020###
+:Fonksiyon konusu öğrenildi bununla alakalı örnekler çözüldü.
+:verilen ödevin 2. sorusu çözüldü ve 3. sorusu yarım halde bırakıldı.
