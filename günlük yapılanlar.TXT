@@ -14,3 +14,10 @@
 ###01/09/2020###
 :Fonksiyon konusu öğrenildi bununla alakalı örnekler çözüldü.
 :verilen ödevin 2. sorusu çözüldü ve 3. sorusu yarım halde bırakıldı.
+
+-------------------------------------------------------------------------------------------------------------------
+
+###02/09/2020###
+:exception(istisna)konusu çalışıldı.
+:Listeleme konusu çalışıldı.Ancak karmaşık olduğu için hata yapıyorum.
+:Listeleme.dart'da "41. ve 44." satırlar anlaşılamadı.

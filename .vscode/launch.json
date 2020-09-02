@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "fonksiyonlar.dart",
+            "program": "listeler.dart",
             "request": "launch",
             "type": "dart"
         }
